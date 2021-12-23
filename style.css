@@ -9,12 +9,31 @@ main {
   display: flex;
   width: 100vw;
   height: 100vh;
-  align-items: center;
-  justify-content: center;
-  background-color: black;
 }
 
 h1 {
   color: white;
   font-size: 1.2rem;
+}
+
+#header-style {
+  align-items: center;
+  border: solid 1px red;
+  display: flex;
+  height: 40px;
+  justify-content: space-around;
+  width: 100vh;
+}
+
+#nav-bar {
+  border: solid 1px blue;
+  display: flex;
+  width: 300px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+#nav-bar a {
+  text-decoration: none;
+  color: black;
 }
