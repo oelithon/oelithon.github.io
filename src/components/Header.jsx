@@ -4,7 +4,9 @@ import "./css/Header.css";
 function Header() {
   return (
     <header className="header">
-      <span className="header-title">Elithon Silva</span>
+      <a href="/">
+        <h1 className="header-title">Elithon Silva</h1>
+      </a>
       <nav className="header-menu">
         <a href="projetos">Projetos</a>
         <a href="contato">Contato</a>
