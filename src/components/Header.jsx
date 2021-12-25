@@ -10,7 +10,7 @@ function Header() {
         <a href="sobre">Sobre</a>
       </nav>
     </header>
-  )
+  );
 }
 
 export default Header;
