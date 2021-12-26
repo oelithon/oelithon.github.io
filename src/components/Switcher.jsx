@@ -1,13 +1,15 @@
 import React from "react";
 import { Route, Switch } from "react-router-dom";
 import Home from "../pages/Home";
-import PageNotFound from "../pages/PageNotFound";
+import NotFoundPage from "../pages/NotFoundPage";
+import LoadingPage from "../pages/LoadingPage";
 
 function Switcher() {
   return (
     <Switch>
-      <Route exact path="/" component={Home} />
-      <Route exact patch="" component={PageNotFound} />
+      <Route exact path="/home" component={Home} />
+      <Route exact path="/" component={LoadingPage} />
+      <Route exact patch="" component={NotFoundPage} />
     </Switch>
   );
 }

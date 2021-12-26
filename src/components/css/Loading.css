@@ -1,0 +1,9 @@
+.section-loading h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  padding: 0 2em 0 2em;
+  text-align: center;
+  color: #4C5973;
+}
