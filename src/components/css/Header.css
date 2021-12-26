@@ -9,7 +9,9 @@
 }
 
 .header a {
+  border: solid 1px green;
   color: black;
+  padding: 2px;
   text-decoration: none;
 }
 

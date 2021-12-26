@@ -5,7 +5,7 @@ function Header() {
   return (
     <header className="header">
       <a href="/">
-        <h1 className="header-title">Elithon Silva</h1>
+        <h1 className="header-title">ES</h1>
       </a>
       <nav className="header-menu">
         <a href="projetos">Projetos</a>
