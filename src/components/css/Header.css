@@ -2,6 +2,7 @@
   align-items: center;
   border: solid 1px red;
   display: flex;
+  height: 40px;
   justify-content: space-around;
 }
 
@@ -14,12 +15,12 @@
   border: solid 1px blue;
   display: flex;
   justify-content: space-evenly;
-  width: 400px;
+  width: 200px;
 }
 
 .header-menu a {
   border: solid 1px green;
   color: black;
-  padding: 6px;
+  padding: 2px;
   text-decoration: none;
 }

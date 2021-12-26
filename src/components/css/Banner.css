@@ -1,7 +1,13 @@
 .section-banner {
+  align-items: center;
   display: flex;
   justify-content: center;
-  height: 300px;
+  height: 150px;
   border: solid 1px magenta;
-  align-items: center;
+  padding: 1.5em 1.5em 1.5em 1.5em;
+  font-style: justify;
+}
+
+.section-banner h1 {
+  font-size: 20px;
 }
