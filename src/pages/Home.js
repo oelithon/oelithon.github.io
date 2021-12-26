@@ -7,9 +7,6 @@ function Home() {
     <>
       <Header />
       <Banner />
-      <section>
-        <span>Home</span>
-      </section>
     </>
   )
 }
