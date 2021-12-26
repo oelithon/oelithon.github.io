@@ -1,20 +1,20 @@
 /* Color Theme Swatches in Hex */
-.Portfólio-Colors-1-hex { color: #3C403D; }
-.Portfólio-Colors-2-hex { color: #A5D9B7; }
-.Portfólio-Colors-3-hex { color: #B4BFB8; }
-.Portfólio-Colors-4-hex { color: #374A3E; }
-.Portfólio-Colors-5-hex { color: #89918C; }
+.MonocromáticoBlue-1-hex { color: #6E7073; }
+.MonocromáticoBlue-2-hex { color: #A1BDF4; }
+.MonocromáticoBlue-3-hex { color: #E8EBF1; }
+.MonocromáticoBlue-4-hex { color: #4C5973; }
+.MonocromáticoBlue-5-hex { color: #B8BABF; }
 
 /* Color Theme Swatches in RGBA */
-.Portfólio-Colors-1-rgba { color: rgba(60, 64, 61, 1); }
-.Portfólio-Colors-2-rgba { color: rgba(165, 217, 183, 1); }
-.Portfólio-Colors-3-rgba { color: rgba(180, 191, 184, 1); }
-.Portfólio-Colors-4-rgba { color: rgba(55, 74, 62, 1); }
-.Portfólio-Colors-5-rgba { color: rgba(137, 145, 140, 1); }
+.MonocromáticoBlue-1-rgba { color: rgba(110, 112, 115, 1); }
+.MonocromáticoBlue-2-rgba { color: rgba(161, 189, 244, 1); }
+.MonocromáticoBlue-3-rgba { color: rgba(232, 235, 241, 1); }
+.MonocromáticoBlue-4-rgba { color: rgba(76, 89, 115, 1); }
+.MonocromáticoBlue-5-rgba { color: rgba(184, 186, 191, 1); }
 
 /* Color Theme Swatches in HSLA */
-.Portfólio-Colors-1-hsla { color: hsla(135, 3, 24, 1); }
-.Portfólio-Colors-2-hsla { color: hsla(140, 40, 74, 1); }
-.Portfólio-Colors-3-hsla { color: hsla(141, 7, 72, 1); }
-.Portfólio-Colors-4-hsla { color: hsla(142, 14, 25, 1); }
-.Portfólio-Colors-5-hsla { color: hsla(142, 3, 55, 1); }
+.MonocromáticoBlue-1-hsla { color: hsla(216, 2, 44, 1); }
+.MonocromáticoBlue-2-hsla { color: hsla(219, 79, 79, 1); }
+.MonocromáticoBlue-3-hsla { color: hsla(220, 24, 92, 1); }
+.MonocromáticoBlue-4-hsla { color: hsla(220, 20, 37, 1); }
+.MonocromáticoBlue-5-hsla { color: hsla(222, 5, 73, 1); }

@@ -10,7 +10,7 @@
 
 .header a {
   border: solid 1px green;
-  color: black;
+  color: #4C5973;
   padding: 2px;
   text-decoration: none;
 }
@@ -24,7 +24,7 @@
 
 .header-menu a {
   border: solid 1px green;
-  color: black;
+  color: #4C5973;
   padding: 2px;
   text-decoration: none;
 }
