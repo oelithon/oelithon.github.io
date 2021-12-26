@@ -1,0 +1,14 @@
+.section-banner {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  height: 90vh;
+  border: solid 1px magenta;
+  padding: 1.5em 1.5em 1.5em 1.5em;
+  font-style: justify;
+}
+
+.section-banner h1 {
+  color: #4C5973;
+  font-size: 20px;
+}

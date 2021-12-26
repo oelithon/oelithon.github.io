@@ -1,14 +1,12 @@
+import React from 'react';
+import Switcher from './components/Switcher';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <p>
-          Página em desenvolvimento...
-        </p>
-      </header>
-    </div>
+    <main className="App">
+      <Switcher />
+    </main>
   );
 }
 

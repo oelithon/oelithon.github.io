@@ -1,0 +1,30 @@
+.header {
+  align-items: center;
+  border: solid 1px red;
+  display: flex;
+  height: 40px;
+  justify-content: space-around;
+  position: fixed;
+  width: 100%;
+}
+
+.header a {
+  border: solid 1px green;
+  color: #4C5973;
+  padding: 2px;
+  text-decoration: none;
+}
+
+.header-menu {
+  border: solid 1px blue;
+  display: flex;
+  justify-content: space-evenly;
+  width: 200px;
+}
+
+.header-menu a {
+  border: solid 1px green;
+  color: #4C5973;
+  padding: 2px;
+  text-decoration: none;
+}
