@@ -1,0 +1,7 @@
+.section-banner {
+  display: flex;
+  justify-content: center;
+  height: 300px;
+  border: solid 1px magenta;
+  align-items: center;
+}
