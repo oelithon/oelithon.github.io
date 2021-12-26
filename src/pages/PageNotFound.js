@@ -1,6 +1,7 @@
 import React from 'react';
+import NotFound from '../components/NotFound';
 
-function NotFound() {
+function PageNotFound() {
   return (
     <>
       <section>
@@ -10,4 +11,4 @@ function NotFound() {
   )
 }
 
-export default NotFound;
+export default PageNotFound;
