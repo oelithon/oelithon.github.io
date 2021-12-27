@@ -7,8 +7,8 @@ import LoadingPage from "../pages/LoadingPage";
 function Switcher() {
   return (
     <Switch>
-      <Route exact path="/home" component={Home} />
-      <Route exact path="/" component={LoadingPage} />
+      <Route exact path="/loading" component={LoadingPage} />
+      <Route exact path="/" component={Home} />
       <Route exact patch="" component={NotFoundPage} />
     </Switch>
   );
